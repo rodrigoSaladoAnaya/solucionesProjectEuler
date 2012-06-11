@@ -1,8 +1,4 @@
-/*
-	main method
-	esta es una prueba de los que trato de hacer
-
-*/
+/*main method*/
 def result(n){
     m1 = []
     m2 = []
